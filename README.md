@@ -9,6 +9,10 @@
 - ByBit Analysis 2 - https://github.com/simoneguptaa/bi-A3
 - Tech Stack: Python
 
+### Memory allocation using first fit, best fit, and quick fit algorithms
+- https://github.com/simoneguptaa/os-a2-practice/tree/master/a2/a2
+- Tech stack: C++
+
 ### Maze solving algorithm
 - Developed a maze solving algorithm using DFS + BFS to find the shortest path to the exit of a maze, along with maximising the value of treasures collected along the path.
 - https://github.com/simoneguptaa/takehome-assignment-s4051222
